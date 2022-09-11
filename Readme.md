@@ -4,6 +4,8 @@
 
 ```mermaid
 graph TD;
+    Eat-->Robotics;
+    Robotics-->Sleep;
     Eat-->Code;
     Code-->Sleep;
     Sleep-->Repeat;
