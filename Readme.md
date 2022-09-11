@@ -4,12 +4,14 @@
 
 ```mermaid
 graph TD;
-    Eat-->Program;
-    Program-->Sleep;
-    Eat-->Code;
-    Code-->Sleep;
-    Sleep-->Repeat;
-    Repeat-->Eat;
+    Javascript --> Javascript;
+    Javascript --> Javascript;
+    Javascript --> Javascript;
+    Javascript --> Javascript;
+    Javascript --> Javascript;
+    Javascript --> Javascript;
+    Javascript --> Javascript;
+    Javascript --> Javascript;
 ```
 
 <p align="center">
