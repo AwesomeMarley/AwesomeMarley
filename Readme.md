@@ -4,10 +4,10 @@
 
 ```mermaid
 graph TD;
-    Repeat-->Eat;
-    Code-->Sleep;
     Eat-->Code;
+    Code-->Sleep;
     Sleep-->Repeat;
+    Repeat-->Eat;
 ```
 
 <p align="center">
