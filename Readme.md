@@ -10,6 +10,9 @@ graph TD;
     id3[Javascript] --> id4[Javascript];
     id4[Javascript] --> id5[Javascript];
     id5[Javascript] --> id1[Javascript];
+    id3[Javascript] --> id2[Javascript];
+    id2[Javascript] --> id4[Javascript];
+    id4[Javascript] --> id1[Javascript];
 ```
 
 <p align="center">
