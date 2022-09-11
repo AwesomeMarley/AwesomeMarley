@@ -6,7 +6,7 @@
 graph TD;
     Repeat-->Eat;
     Code-->Sleep;
-    Eat-->Sleep;
+    Eat-->Code;
     Sleep-->Repeat;
 ```
 
